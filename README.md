@@ -1,6 +1,9 @@
 ![](https://dcbadge.vercel.app/api/shield/423747377506025472)
 
-
+### Features
+- Avoid Extra Pings
+- Nothing Much
+- Feel Free to remake this shit
 
 ### Donate
 - LTC
